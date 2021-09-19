@@ -21,4 +21,15 @@
             "en": "..."
         }
     }
+ {
+        "address": "one1m9f8ygperx9fgd3zp2mlutvm9tycgwv6nmljec",
+        "decimals": 8,
+        "totalSupply": "500000000",
+        "name": "LION CLUB TOKEN",
+        "symbol": "LCT",
+        "website": "www.lionclub.one/",
+        "description": {
+            "en": "..."
+        }
+}
 ]
